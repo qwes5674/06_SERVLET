@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-@WebServlet("/fromdata")
+@WebServlet("/formdata")
 public class FormDataTestServlet extends HttpServlet {
 
     @Override

@@ -42,7 +42,7 @@
         쿼리스트링을 이용한 값 전달
     </a>
 
-    <form action="fromdata" method = "post">
+    <form action="formdata" method = "post">
         <label>이름 : </label><input type ="text" name="name">
         <br>
         <label>나이 : </label><input type ="number" name="age">
