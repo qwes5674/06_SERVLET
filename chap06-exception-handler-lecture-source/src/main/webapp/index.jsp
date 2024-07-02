@@ -8,5 +8,7 @@
 <h1> Exception Handler </h1>
 <br/>
 <a href="show404error">404 에러 확인</a>
+<br>
+<a href="show500error">500 에러 확인</a>
 </body>
 </html>

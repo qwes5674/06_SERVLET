@@ -8,4 +8,9 @@
         <error-code>404</error-code>
         <location>/showerrorpage</location>
     </error-page>
+    <error-page>
+        <!-- 500 error 발생시 실행 -->
+        <error-code>500</error-code>
+        <location>/showerrorpage</location>
+    </error-page>
 </web-app>
