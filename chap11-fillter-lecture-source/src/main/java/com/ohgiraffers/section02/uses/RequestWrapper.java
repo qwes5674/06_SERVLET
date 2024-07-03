@@ -1,6 +1,5 @@
 package com.ohgiraffers.section02.uses;
 
-import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletRequestWrapper;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
